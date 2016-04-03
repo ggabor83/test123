@@ -1,4 +1,6 @@
 MASTER modification!!
+
+feature1:
 2. modification
 
 tests
